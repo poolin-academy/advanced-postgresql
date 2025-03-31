@@ -4,11 +4,11 @@ MAIN RESOURCE: https://drive.google.com/drive/folders/1qKksVM7KXpG1o_eyn9tDcV4Vs
 
 Follow these steps to install all the necessary software on your computer
 
-STEP 1. INSTALL DOCKER
+Step 1. Install Docker<br>
 Video tutorial: https://www.youtube.com/watch?v=F-GFS6yRysU
 
-STEP 2. INSTALL AND RUN POSTGRESQL
+Step 2. Install and run Postgresql
 
-STEP 3. INSTALL PGADMIN
+STEP 3. Install PgAdmin
 
 some content for lesson 1
